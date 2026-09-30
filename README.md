@@ -1,2 +1,2 @@
 # mini-project
-my project is about career guidance 
+my project is about career guidance
